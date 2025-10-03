@@ -1,2 +1,3 @@
 # pongFPGA
-M152A Final project
+
+Integration of VGA and FPGA for a working complete pong project
